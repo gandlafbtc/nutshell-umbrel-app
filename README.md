@@ -1,3 +1,3 @@
-# CDK Umbrel App
+# Nutshell Umbrel App
 
-Frontend for CDK umbrel app
+Frontend for nutshell umbrel app
